@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="416ad3be-3b04-40e6-a377-95911031afe7" name="Changes" comment="깃 관리 수정" />
+    <list default="true" id="416ad3be-3b04-40e6-a377-95911031afe7" name="Changes" comment="깃 관리 수정">
+      <change afterPath="$PROJECT_DIR$/src/drama/WooYungWoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drama/WooYungWooTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cafe/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cafe/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cafe/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cafe/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cafe/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cafe/Staff.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +43,7 @@
     "last_opened_file_path": "C:/Users/sebin/IdeaProjects/DoItJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OrderTest">
+  <component name="RunManager" selected="Application.WooYungWooTest">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first.Hello" />
       <module name="DoItJava" />
@@ -89,8 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WooYungWooTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drama.WooYungWooTest" />
+      <module name="DoItJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drama.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WooYungWooTest" />
         <item itemvalue="Application.OrderTest" />
         <item itemvalue="Application.MenuTest" />
         <item itemvalue="Application.HelloTest" />
@@ -106,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660554191710</updated>
-      <workItem from="1660554197020" duration="10177000" />
+      <workItem from="1660554197020" duration="15213000" />
     </task>
     <task id="LOCAL-00001" summary="카페주문-객체간 협력/ 참조자료형/static 변수 활용">
       <created>1660571213136</created>
@@ -122,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660571478422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="깃 관리 수정">
+      <created>1660571636657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660571636657</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

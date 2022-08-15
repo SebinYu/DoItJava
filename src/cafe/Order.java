@@ -2,8 +2,10 @@ package cafe;
 
 public class Order {
     static int orderCount;
+    int testnum;
     int orderNum = 100;
     public Order(){
+        testnum++;
         orderCount++;
         orderNum += orderCount;
     }
