@@ -12,5 +12,6 @@ public class OrderTest {
         System.out.println("주문번호: " + secondOrder.orderNum);
         firstOrder.orderBaverage(st1, "아메리카노");
         System.out.println(secondOrder.orderCount + "개 지금까지 주문받음");
+
     }
 }
