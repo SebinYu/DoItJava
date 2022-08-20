@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="416ad3be-3b04-40e6-a377-95911031afe7" name="Changes" comment="깃 관리 수정">
-      <change afterPath="$PROJECT_DIR$/src/drama/WooYungWoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drama/WooYungWooTest.java" afterDir="false" />
+    <list default="true" id="416ad3be-3b04-40e6-a377-95911031afe7" name="Changes" comment="객체배열만들기/깊은복사">
+      <change afterPath="$PROJECT_DIR$/src/cote/HeaterArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cafe/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cafe/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cafe/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cafe/OrderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cafe/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cafe/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drama/WooYungWooTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drama/WooYungWooTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sebin/IdeaProjects/DoItJava"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sebin/IdeaProjects/DoItJava&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.WooYungWooTest">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first.Hello" />
+}</component>
+  <component name="RunManager" selected="Application.HeaterArray">
+    <configuration name="HeaterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cote.HeaterArray" />
       <module name="DoItJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first.*" />
+          <option name="PATTERN" value="cote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first.HelloTest" />
+    <configuration name="HeaterArrayTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cote.HeaterArrayTest" />
       <module name="DoItJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first.*" />
+          <option name="PATTERN" value="cote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +68,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cafe.MenuTest" />
+    <configuration name="HeaterArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cote.HeaterArrayTest" />
       <module name="DoItJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cafe.*" />
+          <option name="PATTERN" value="cote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeaterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cote.HeaterArray" />
+      <module name="DoItJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeaterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cote.HeaterArray" />
+      <module name="DoItJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeaterArray" />
+        <item itemvalue="Application.HeaterArrayTest" />
+        <item itemvalue="Application.HeaterArrayTest (1)" />
         <item itemvalue="Application.WooYungWooTest" />
         <item itemvalue="Application.OrderTest" />
-        <item itemvalue="Application.MenuTest" />
-        <item itemvalue="Application.HelloTest" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +151,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660554191710</updated>
-      <workItem from="1660554197020" duration="15213000" />
+      <workItem from="1660554197020" duration="15335000" />
+      <workItem from="1660918769070" duration="7361000" />
+      <workItem from="1660926481111" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="카페주문-객체간 협력/ 참조자료형/static 변수 활용">
       <created>1660571213136</created>
@@ -150,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660571636657</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="객체배열만들기/깊은복사">
+      <created>1660577665851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660577665851</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +203,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="카페주문-객체간 협력/ 참조자료형/static 변수 활용" />
     <MESSAGE value="깃 관리 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="깃 관리 수정" />
+    <MESSAGE value="객체배열만들기/깊은복사" />
+    <option name="LAST_COMMIT_MESSAGE" value="객체배열만들기/깊은복사" />
   </component>
 </project>

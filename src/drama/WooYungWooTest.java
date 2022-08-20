@@ -16,6 +16,7 @@ public class WooYungWooTest {
 
         WooYungWoo[] casting2 = new WooYungWoo[2];
 
+
         casting2[0] = new WooYungWoo();
         casting2[1] = new WooYungWoo();
 
